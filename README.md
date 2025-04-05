@@ -61,5 +61,5 @@ Using natural language processing, Dev Insights provides a short summary of key 
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/dev-insights.git
-cd dev-insights
+git clone https://github.com/your-username/GitHub-Repo-Analyzer.git
+cd GitHub-Repo-Analyzer
