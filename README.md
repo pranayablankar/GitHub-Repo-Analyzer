@@ -50,7 +50,7 @@ Using natural language processing, Dev Insights provides a short summary of key 
 ---
 
 ## 📸 Screenshots
-
+demo ->https://githubanalyzer-iota.vercel.app/
 ![Dashboard](./screenshots/dashboard.png)
 ![Charts](./screenshots/charts.png)
 ![PDF Report](./screenshots/pdf-report.png)
